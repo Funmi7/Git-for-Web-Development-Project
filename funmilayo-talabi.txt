@@ -1,0 +1,3 @@
+This is just a text document to practice git for web development.
+So, I'm supposed to add this file to my project and rename it to my name. 
+Quite cool, right?
